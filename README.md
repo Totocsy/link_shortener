@@ -1,6 +1,6 @@
 # link_shortener
 
-A new Flutter project.
+This flutter froject is an android aplication that maka a scrreen where you can enteer a link and the program will shorten the link for you.
 
 ## Getting Started
 
